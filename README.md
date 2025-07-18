@@ -34,8 +34,7 @@ This project serves as a starter kit for anyone looking to implement a structure
   <img src="https://github.com/NoorMustafa4556/Flutter-MVVM-Architecture/blob/main/assets/images/4.png" alt="Home / Error State" width="30%" style="margin: 0 40px;"/>
 </p>
 
-### 🔹 Error / Home Screen
-![Error or API Response](assets/images/4.png)
+
 
 
 ## 🏗️ Architectural Flow
