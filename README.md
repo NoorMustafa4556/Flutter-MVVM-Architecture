@@ -23,6 +23,23 @@ This project serves as a starter kit for anyone looking to implement a structure
 -   **Centralized Navigation:** A clean routing system to manage all screen navigations from one place.
 -   **Reusable Components:** Common widgets like `RoundButton` to maintain a consistent UI and avoid code duplication.
 
+-   ---
+
+## 📸 App Screenshots
+
+### 🔹 Splash Screen
+![Splash Screen](assets/images/1.png)
+
+### 🔹  Signup
+![ Signup](assets/images/2.png)
+
+### 🔹 Login (Login View)
+![Weather Home](assets/images/3.png)
+
+### 🔹 Error / Home Screen
+![Error or API Response](assets/images/4.png)
+
+
 ## 🏗️ Architectural Flow
 
 The data flow in this architecture is unidirectional and easy to follow:
