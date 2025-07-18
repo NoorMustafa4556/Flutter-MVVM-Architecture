@@ -25,16 +25,14 @@ This project serves as a starter kit for anyone looking to implement a structure
 
 -   ---
 
-## 📸 App Screenshots
+<h2 align="center">📸 App Screenshots</h2>
 
-### 🔹 Splash Screen
-![Splash Screen](assets/images/1.png)
-
-### 🔹  Signup
-![ Signup](assets/images/2.png)
-
-### 🔹 Login (Login View)
-![Weather Home](assets/images/3.png)
+<p align="center">
+  <img src="https://github.com/NoorMustafa4556/Flutter-MVVM-Architecture/blob/main/assets/images/1.png" alt="Splash Screen" width="30%" style="margin: 0 40px;"/>
+  <img src="https://github.com/NoorMustafa4556/Flutter-MVVM-Architecture/blob/main/assets/images/2.png" alt="Signup Screen" width="30%" style="margin: 0 40px;"/>
+  <img src="https://github.com/NoorMustafa4556/Flutter-MVVM-Architecture/blob/main/assets/images/3.png" alt="Login Screen" width="30%" style="margin: 0 40px;"/>
+  <img src="https://github.com/NoorMustafa4556/Flutter-MVVM-Architecture/blob/main/assets/images/4.png" alt="Home / Error State" width="30%" style="margin: 0 40px;"/>
+</p>
 
 ### 🔹 Error / Home Screen
 ![Error or API Response](assets/images/4.png)
