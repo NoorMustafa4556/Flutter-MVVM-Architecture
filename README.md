@@ -87,4 +87,4 @@ You need to have the Flutter SDK installed on your machine.
 -   **shared_preferences:** For storing simple data locally.
 
 
-*This README was generated with love ❤️*
+
