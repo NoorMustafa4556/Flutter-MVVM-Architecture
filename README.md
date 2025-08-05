@@ -2,6 +2,7 @@
 
 A robust and scalable MVVM (Model-View-ViewModel) architecture boilerplate for Flutter, designed to build clean, maintainable, and testable applications. 
 
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ## ✨ About This Project
