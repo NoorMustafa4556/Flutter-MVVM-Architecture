@@ -13,6 +13,7 @@ This project serves as a starter kit for anyone looking to implement a structure
 -   **View:** The UI of your application (Widgets, Screens). Its only job is to display what the ViewModel tells it to.
 -   **ViewModel:** Acts as a bridge between the View and the Model. It handles all the business logic and state management.
 
+
 ## 🎯 Key Features
 
 -   **MVVM Architecture:** For a clean separation of UI, business logic, and data.
