@@ -61,21 +61,21 @@ You need to have the Flutter SDK installed on your machine.
 ### Installation
 
 ## 1.  Clone the repository:
-    ```sh
+  ```bash
     git clone https://github.com/NoorMustafa4556/Flutter-MVVM-Architecture.git
-    ```
+  ```
 ## 2.  Navigate to the project directory:
-    ```sh
+   ```bash
     cd Flutter-MVVM-Architecture
-    ```
+   ```
 ## 3.  Install the dependencies:
-    ```sh
+  ```bash
     flutter pub get
-    ```
+  ```
 ## 4.  Run the app:
-    ```sh
+  ```bash
     flutter run
-    ```
+  ```
 
 ## 📦 Main Packages Used
 
@@ -84,7 +84,7 @@ You need to have the Flutter SDK installed on your machine.
 -   **flutter_spinkit:** For beautiful loading animations.
 -   **fluttertoast:** For showing toast messages.
 -   **shared_preferences:** For storing simple data locally.
-# 👋 Hi, I'm Noor Mustafa
+# 👋🏻 Hi, I'm Noor Mustafa
 
 A passionate and results-driven **Flutter Developer** from **Bahawalpur, Pakistan**, specializing in building elegant, scalable, and high-performance cross-platform mobile applications using **Flutter** and **Dart**.
 
@@ -94,7 +94,7 @@ With a strong understanding of **UI/UX principles**, **state management**, and *
 
 ## 🚀 What I Do
 
-- 🧑‍💻 **Flutter App Development** – I build cross-platform apps for Android, iOS, and the web using Flutter.
+- 🧑🏻💻 **Flutter App Development** – I build cross-platform apps for Android, iOS, and the web using Flutter.
 - 🔗 **API Integration** – I connect apps to powerful RESTful APIs and third-party services.
 - 🎨 **UI/UX Design** – I craft responsive and animated interfaces that elevate the user experience.
 - 🔐 **Authentication & Firebase** – I implement secure login systems and integrate Firebase services.
