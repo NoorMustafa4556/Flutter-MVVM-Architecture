@@ -60,19 +60,19 @@ You need to have the Flutter SDK installed on your machine.
 
 ### Installation
 
-1.  Clone the repository:
+## 1.  Clone the repository:
     ```sh
     git clone https://github.com/NoorMustafa4556/Flutter-MVVM-Architecture.git
     ```
-2.  Navigate to the project directory:
+## 2.  Navigate to the project directory:
     ```sh
     cd Flutter-MVVM-Architecture
     ```
-3.  Install the dependencies:
+## 3.  Install the dependencies:
     ```sh
     flutter pub get
     ```
-4.  Run the app:
+## 4.  Run the app:
     ```sh
     flutter run
     ```
