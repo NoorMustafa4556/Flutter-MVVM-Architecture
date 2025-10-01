@@ -7,6 +7,7 @@ A robust and scalable MVVM (Model-View-ViewModel) architecture boilerplate for F
 ## ✨ About This Project
 
 
+
 This project serves as a starter kit for anyone looking to implement a structured architecture in their Flutter projects from day one. It solves the common problem of unorganized code by separating concerns into three main layers:
 
 -   **Model:** Represents your data structures (e.g., `UserModel`, `MoviesModel`).
